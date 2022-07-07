@@ -1,0 +1,18 @@
+Push Github
+
+Nama repository -> PraPKL
+username -> tasyaa01
+email -> annastasyaputriandra31@gmail.com
+
+Pembuatan Token -> repo, workflow, gist
+
+token -> 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
+
+Push
+$ git init
+$ git config user.name "tasyaa01"
+$ git config user.email "annastasyaputriandra31@gmail.com"
+$ git remote add origin https://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@github.com/tasyaa01/PraPKL.git
+$ git add .
+$ git commit -m "OOP CRUD PHP"
+$ git push origin master
